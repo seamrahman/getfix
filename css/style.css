@@ -172,3 +172,111 @@ nav button:hover{
 }
 
 /* === banner css end === */
+
+/* === banner_bottom css start === */
+
+#banner_bottom .round {
+    background: #fff;
+    padding: 15px;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+}
+
+#banner_bottom .round{
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    box-shadow: 5px 13px 29px 0px rgba(0,0,0,0.17);
+-webkit-box-shadow: 5px 13px 29px 0px rgba(0,0,0,0.17);
+-moz-box-shadow: 5px 13px 29px 0px rgba(0,0,0,0.17);
+width: 1025px;
+margin: 0 auto;
+}
+
+#banner_bottom .round h3 {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+#banner_bottom .round .item {
+    width: 675px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+#banner_bottom .round .item .img{
+    text-align: center;
+    cursor: pointer;
+}
+
+#banner_bottom .round .item h4 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+
+/* === banner_bottom css end === */
+
+/* === best css start === */
+
+#best_part {
+    padding-bottom: 60px;
+}
+
+#best_part .text h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+#best_part .text h4{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #707070;
+}
+
+#best_part .item {
+    padding-top: 20px;
+    text-align: center;
+}
+
+#best_part .item .img {
+    text-align: left;
+}
+
+#best_part .item h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    font-weight: 800;
+    margin-top: 5px;
+    padding-right: 60px;
+}
+
+#best_part .item h4{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #707070;
+    margin-top: 3px;
+    padding-right: 60px;
+}
+
+#best_part .item .img .round{
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+/* === best css end === */

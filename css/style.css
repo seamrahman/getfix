@@ -372,59 +372,56 @@ margin: 0 auto;
     -o-border-radius: 45px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* === clean css end === */
+
+/* === covid css start === */
+
+#covid_part {
+    padding-bottom: 120px;
+}
+
+#covid_part .reg{
+    background: #022C43;
+    padding: 150px 0;
+}
+
+#covid_part .reg .item {
+    text-align: right;
+}
+
+#covid_part .reg .item .text {
+    color: #fff;
+    text-align-last: left;
+}
+
+#covid_part .item .text h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    color: #FFD700;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#covid_part .item .text p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    width: 383px;
+}
+
+#covid_part .safe{
+    background: #FFD700;
+    padding: 150px 0;
+}
+
+#covid_part .safe .maje {
+    text-align: right;
+}
+
+#covid_part .safe .item .text h3 {
+    color: #000;
+}
+
+
+/* === covid css end === */
